@@ -1,5 +1,4 @@
-{
-"snakes":[
+[
   {
     "id": 1,
     "scientificName": "Bungarus fasciatus",
@@ -41,4 +40,3 @@
     "image": "https://saeedrahman.github.io/snake-api/images/tonkin_pit_viper.jpg"
   }
 ]
-}
