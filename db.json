@@ -6,37 +6,5 @@
     "lethality": "lethal",
     "description": "Large, over 1 m long, up to 1.8 m in total length. Body with high vertebral ridge, with regularly spaced black and yellow transverse bands encircling the whole body. Black spear-shaped marking on head. Tail short and blunt. Young individuals have black and grey transverse bands.",
     "image": "https://saeedrahman.github.io/snake-api/images/banded_krait.jpg"
-  },
-  {
-    "id": 2,
-    "scientificName": "Bungarus multicinctus",
-    "commonName": "Many-banded Krait",
-    "lethality": "lethal",
-    "description": "Medium to large-sized snake, about 80-150 cm in total length. Body with high vertebral ridge, back with alternating and clear-cut black and white crossbands throughout the body, black band is wider than white band. Head black in colour, juvenile with a white mark. Belly greyish white.",
-    "image": "https://saeedrahman.github.io/snake-api/images/many_banded_krait.jpg"
-  },
-  {
-    "id": 3,
-    "scientificName": "Naja atra",
-    "commonName": "Chinese Cobra",
-    "lethality": "lethal",
-    "description": "Medium to large-sized snake, average about 90-200 cm long. Body black to brown or grey in colour, with irregularly spaced white bandings or spots in the lower part of the body. An expandable hood on neck. The back of the hood usually has a one or a pair of eye-like marking, may be absent in some individuals, the throat has a black transverse band and two black spots above the band. Belly whitish.",
-    "image": "https://saeedrahman.github.io/snake-api/images/chinese_cobra.jpg"
-  },
-  {
-    "id": 4,
-    "scientificName": "Ophiophagus hannah",
-    "commonName": "King Cobra",
-    "lethality": "lethal",
-    "description": "The largest venomous snake species in the world, with a record length of 6 m, average length about 3-4 m. Body long and stout, adults black in colour, covered with faint white traverse bands on the back which faint in old individuals. Belly yellowish white. Juveniles are shiny black with narrow yellow bands (could be mistaken for a Banded Krait (Bungarus fasciatus) but readily identified with its expandable hood) and are equally deadly as their adult counterparts.",
-    "image": "https://saeedrahman.github.io/snake-api/images/king_cobra.jpg"
-  },
-  {
-    "id": 5,
-    "scientificName": "Ovophis tonkinensis",
-    "commonName": "Tonkin Pit Viper",
-    "lethality": "lethal",
-    "description": "Medium-sized snake, usually 45-60 cm in total length but up to 95 cm. Body short and stout, greyish brown in colour, covered with numerous large irregularly shaped chocolate-brown blotches. Head strongly triangular and covered with small scales.",
-    "image": "https://saeedrahman.github.io/snake-api/images/tonkin_pit_viper.jpg"
   }
 ]
