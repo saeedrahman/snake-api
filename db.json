@@ -38,5 +38,13 @@
     "lethality": "lethal",
     "description": "Medium-sized snake, usually 45-60 cm in total length but up to 95 cm. Body short and stout, greyish brown in colour, covered with numerous large irregularly shaped chocolate-brown blotches. Head strongly triangular and covered with small scales.",
     "image": "https://saeedrahman.github.io/snake-api/images/tonkin_pit_viper.jpg"
+  },
+  { 
+    "id": 6,
+    "scientificName": "Ovophis tonkinensis",
+    "commonName": "Tonkin Pit Viper",
+    "lethality": "lethal",
+    "description": "Medium-sized snake, usually 45-60 cm in total length but up to 95 cm. Body short and stout, greyish brown in colour, covered with numerous large irregularly shaped chocolate-brown blotches. Head strongly triangular and covered with small scales.",
+    "image": "https://saeedrahman.github.io/snake-api/images/tonkin_pit_viper.jpg"
   }
 ]
