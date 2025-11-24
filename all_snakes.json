@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "scientificName": "Product 1",
+    "commonName": "10.00",
+    "lethality": "Electronics",
+    "description": "Large, over 1 m long, up to 1.8 m in total length. Body with high vertebral ridge, with regularly spaced black and yellow transverse bands encircling the whole body. Black spear-shaped marking on head. Tail short and blunt. Young individuals have black and grey transverse bands.",
+    "image": "https://saeedrahman.github.io/snake-api/images/banded_krait.jpg"
+  }
+]
